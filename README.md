@@ -4,7 +4,7 @@ A simple program that will allow you to compare or analyze data sets of differen
 
 ###
 
-<img height="250" width="100%" src="https://cdn.discordapp.com/attachments/855396331194286081/1319672437977251891/goland64_8M90EZ0O56.gif?ex=6766d03b&is=67657ebb&hm=223ed9f9806916021547d7837bd473c268a39b5e4fdd5ae000c2ca79e8c36488&"  />
+<img height="250" width="100%" src="https://github.com/BotEkrem/data-analysis-comparison-tool/blob/main/assets/usage.gif"  />
 
 ###
 
